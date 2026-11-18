@@ -76,10 +76,6 @@ See the [design report](docs/design-report.pdf) for design trade-offs, command t
 | [`GetLVL_S3D_ALL.m`](model/GetLVL_S3D_ALL.m) | Defines mission scenarios. |
 | [`PlotS3D.m`](model/PlotS3D.m) and [`blkwhitebg.m`](model/blkwhitebg.m) | Render the spacecraft animation and manage its color scheme. |
 
-## Publish the project page
-
-Extract the ZIP and commit its contents at the root of a GitHub repository. GitHub displays this README on the repository homepage. For the standalone site, open **Settings → Pages**, select **Deploy from a branch**, and choose your default branch and **/ (root)**. The Pages entry point renders this same README.
-
 ## Credits
 
 Control system design and integration by Emanuele Bossi for EE 460 at Embry-Riddle Aeronautical University, Spring 2026. The simulation builds on the course-provided S3D plant and MATLAB utilities.
