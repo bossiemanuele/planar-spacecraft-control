@@ -1,0 +1,11 @@
+# MATLAB and Simulink generated files
+slprj/
+sccprj/
+*.slxc
+*.autosave
+*.asv
+*_rtw/
+
+# GitHub Pages local build output
+_site/
+.jekyll-cache/
